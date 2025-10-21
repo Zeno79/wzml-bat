@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "7037777907:AAEyiVq8E_lw_K5s2jPP5jqyymsMoAuLrbA"
+OWNER_ID = 5957500906
+TELEGRAM_API = 26825122
+TELEGRAM_HASH = "dfd5e8854c8afb0b7284062cf0b10c47"
+DATABASE_URL = "mongodb+srv://Ujwal:JZCVCfWTThhegRxt@ujwal.82hvrit.mongodb.net/?retryWrites=true&w=majority&appName=Ujwal"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
